@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const Image = styled.img.attrs(()=>({
-    src: "/src/assets/Rectangle 1.png",
+    src: "/src/assets/Rectangle.png",
     alt: "main-img",
 }))`
     max-width: 280px;
